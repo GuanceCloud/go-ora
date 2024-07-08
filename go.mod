@@ -1,3 +1,3 @@
-module github.com/sijms/go-ora
+module github.com/GuanceCloud/go-ora
 
 go 1.14
